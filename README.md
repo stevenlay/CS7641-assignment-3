@@ -11,7 +11,7 @@ To make it convenient, I cloned his repo and added my own changes and included t
 
 a. Ensure that python3 and pip are installed
 
-1. clone my assignment3 at (https://github.com/stevenlay/CS7641/tree/master/assignment2)
+1. clone my assignment3 at (https://github.com/stevenlay/CS7641-assignment-3.git)
 
 2. pip install the required dependencies
 
